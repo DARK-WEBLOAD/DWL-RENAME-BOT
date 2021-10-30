@@ -22,11 +22,11 @@ class TEXT:
 
 ** Developer:** {bot_owner}
 
-** Channel:** [NS BOT UPDATES](https://t.me/Ns_bot_updates)
+** Channel:** [UNIVERSAL MOVIES](https://t.me/joinchat/FYBCIcMfr0AyOTFl)
 
-** Group:** [Ns BOT SUPPORT](https://t.me/Ns_Bot_supporters)
+** Group:** [UNIVERASAL MOVIES DISCUSS](https://t.me/universalmovieE)
 
-** Source Code:** [Press Me](https://github.com/Ns-AnoNymouS/TG-RENAMER-BOT)
+** Source Code:** [click here](https://t.me/joinchat/oGgao285rtBhNmM9)
 """
 
     HELP_USER = """**Follow Below Steps:**
@@ -45,7 +45,7 @@ I am a telegram renamer with permanent thumbnail.
 
 𝖥𝗈𝗋 𝖬𝗈𝗋𝖾 𝖣𝖾𝗍𝖺𝗂𝗅𝗌 𝖲𝖾𝖾 𝖧𝖾𝗅𝗉.
 
-**Maintained By:** {@DARKWEBLOAD}
+**Maintained By:** {bot_owner}
 """
 
 
